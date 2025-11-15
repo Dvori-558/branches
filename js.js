@@ -4,3 +4,7 @@ const a = ()=>{
 const b = ()=>{
    return '3'
 } 
+
+const c = ()=>{
+   return 'cccc'
+} 
